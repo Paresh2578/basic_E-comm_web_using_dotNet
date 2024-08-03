@@ -1,0 +1,43 @@
+﻿@model List<CategoryModel>
+
+@{
+	ViewData["Title"] = "Customer List";
+}
+
+
+<div class="container">
+	<div class="row d-flex justify-content-between mb-2">
+		<div class="col-4 fs-3">
+			Category List
+		</div>
+		<a asp-action="AddEditCategory" class="col-2 btn btn-primary text-center bg-primary"><i class="bi bi-plus-circle"></i> Add new Category</a>
+	</div>
+	<table class="table table-bordered table-striped">
+		<thead>
+		<th>id </th>
+		<th>Name</th>
+		<th></th>
+		</thead>
+		<tbody>
+			@foreach (var c in Model)
+			{
+				<tr >
+					<td>@c.CategoryId</td>
+					<td>@c.CategoryName</td>
+					<td>
+						<div class="justify-content-center d-flex">
+							<a asp-action="AddEditCategory" asp-route-categoryID="@c.CategoryId" class=" col btn btn-primary me-2"> <i class="bi bi-pencil-square"></i> </a>
+							<a onclick="onDelete(`/api/category/@c.CategoryId`)" class="col btn btn-danger"> <i class="bi bi-trash3"></i> </a>
+						</div>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+
+
+</div> 
+
+@section Scripts{
+		<script src="~/js/Dialog.js"></script>
+}

@@ -1,0 +1,60 @@
+﻿@model List<CardModel>
+
+@{
+	ViewData["Title"] = "Your Card";
+
+	int total = 0;
+}
+
+<div class="row justify-content-between">
+	<div class="col-8 shadow p-2">
+		@foreach(var card in Model)
+		{
+			<span hidden>@(total += (card.Quentity * (int)(card.Product.ProductPrice)))</span>
+			<div class="row d-flex align-content-center justify-content-center mb-3 m-2 p-2 rounded shadow border broder-primary border-2">
+				<div class="col-3">
+					<img src="@card.Product.ImageUrl" class="rounded"  style="height:100px"/>
+				</div>
+				<div class="col">
+					<h3 class="text-center">@card.Product.ProductName</h3>
+					<div class="d-flex  align-content-center justify-content-between">
+						<p class="fs-4">@card.Product.ProductPrice.ToString("c")</p>
+						<div class="btn-group ms-3">
+							@* <a href=" @(card.Quentity > 1 ?  /ChangeQuantity/@(card.CardID)/@(card.Quentity-1)"  : "") class="btn btn-primary align-content-center @(card.Quentity <= 1 ? "opacity-50": "")">-</a> *@
+							@if(card.Quentity > 1)
+							{
+								<a href="/ChangeQuantity/@(card.CardID)/@(card.Quentity-1)" class="btn btn-primary align-content-center">-</a>
+							}else{
+							<a href="" class="btn btn-primary align-content-center @(card.Quentity <= 1 ? "opacity-50": "")">-</a>}
+							<button  class="btn btn-outline-primary ">@card.Quentity</button>
+							<a href="/ChangeQuantity/@(card.CardID)/@(card.Quentity+1)" class="btn btn-primary align-content-center">+</a>
+						</div>
+						<a asp-action="Detele" asp-route-id="@card.CardID" class="btn btn-danger align-content-center"><i class="bi bi-trash3"></i></a>
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+	<div class="col-3  ">
+		<div class="shadow p-2 rounded-1">
+			<div class="d-flex justify-content-between">
+				<div class="">price (@(Model.Count) item)</div>
+				<div class="">@(total)</div>
+			</div>
+
+
+			<div class="d-flex justify-content-between ">
+				<div class="">Delivery Charges</div>
+				<div class="text-success">Free</div>
+			</div>
+
+			<div class="d-flex justify-content-between ">
+				<div class="">Total Amount</div>
+				<div class="text-success">@(total)</div>
+			</div>
+
+
+		</div>
+	</div>
+</div>
+

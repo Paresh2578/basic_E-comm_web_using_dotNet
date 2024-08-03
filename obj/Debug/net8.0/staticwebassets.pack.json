@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\bulkyApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\bulkyApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\03ea537c-1314-4fa8-a78e-25cbea1b1ff2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\03ea537c-1314-4fa8-a78e-25cbea1b1ff2.jpeg"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\0b83aaa1-8116-44d0-b3ef-7fd597c53932.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\0b83aaa1-8116-44d0-b3ef-7fd597c53932.png"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\60873b18-e6ad-424a-9ea6-3b55730e0052.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\60873b18-e6ad-424a-9ea6-3b55730e0052.png"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\7cefa1d6-67f6-4080-a51e-4c39a04714be.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\7cefa1d6-67f6-4080-a51e-4c39a04714be.png"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\8434ede2-3193-4c6a-99f1-4ad1174a4dcb.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\8434ede2-3193-4c6a-99f1-4ad1174a4dcb.jpeg"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\84932abe-1d94-4ca2-bdf7-52aaf01e31ae.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\84932abe-1d94-4ca2-bdf7-52aaf01e31ae.png"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\86559aaa-5357-4671-bb31-8f4dbe727a5c.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\86559aaa-5357-4671-bb31-8f4dbe727a5c.png"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\d1cd523e-bc56-42ef-a194-cc2a6aa5f8a6.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d1cd523e-bc56-42ef-a194-cc2a6aa5f8a6.jpeg"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\ed4426ec-ecb7-418c-9341-c1a0ed860961.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\ed4426ec-ecb7-418c-9341-c1a0ed860961.png"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\f4dae072-34e5-4d3f-acbc-5f43fab12700.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\f4dae072-34e5-4d3f-acbc-5f43fab12700.png"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\Images\\Product\\fe7c7a90-3ead-475c-b0e2-e810021d8551.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\fe7c7a90-3ead-475c-b0e2-e810021d8551.png"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\js\\Dialog.js",
+      "PackagePath": "staticwebassets\\js\\Dialog.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\my data\\paresh\\language\\.net\\bulkyApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.bulkyApp.props",
+      "PackagePath": "build\\bulkyApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.bulkyApp.props",
+      "PackagePath": "buildMultiTargeting\\bulkyApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.bulkyApp.props",
+      "PackagePath": "buildTransitive\\bulkyApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.bulkyApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

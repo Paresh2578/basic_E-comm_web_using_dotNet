@@ -1,0 +1,33 @@
+﻿@model bulkyApp.Models.UserModel
+@{
+	ViewData["Title"] = "Forget password";
+}
+
+
+<div class="row card">
+	<div class="card-header bg-secondary bg-gradient">
+		<h3 class="text-light text-center">Forget Password</h3>
+	</div>
+
+	<form method="post">
+		<div class="card-body">
+
+			<div class="mb-3">
+				<label asp-for="Email"></label>
+				<input asp-for="Email" class="form-control" />
+				<span asp-validation-for="Email" class="text-danger"></span>
+			</div>
+
+			<div class="mb-3 ">
+				<input type="submit" class="btn btn-primary col-md-12 col-lg-4" value="Forget password" />
+			</div>
+		</div>
+	</form>
+</div>
+
+
+@section Scripts {
+	@{
+		<partial name="_ValidationScriptsPartial" />
+	}
+}
